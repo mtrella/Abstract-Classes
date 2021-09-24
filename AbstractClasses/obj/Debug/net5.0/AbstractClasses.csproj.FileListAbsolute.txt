@@ -1,0 +1,16 @@
+E:\college\Assignments\.NETdatabase\Class 6\AbstractClasses\bin\Debug\net5.0\AbstractClasses.exe
+E:\college\Assignments\.NETdatabase\Class 6\AbstractClasses\bin\Debug\net5.0\AbstractClasses.deps.json
+E:\college\Assignments\.NETdatabase\Class 6\AbstractClasses\bin\Debug\net5.0\AbstractClasses.runtimeconfig.json
+E:\college\Assignments\.NETdatabase\Class 6\AbstractClasses\bin\Debug\net5.0\AbstractClasses.runtimeconfig.dev.json
+E:\college\Assignments\.NETdatabase\Class 6\AbstractClasses\bin\Debug\net5.0\AbstractClasses.dll
+E:\college\Assignments\.NETdatabase\Class 6\AbstractClasses\bin\Debug\net5.0\ref\AbstractClasses.dll
+E:\college\Assignments\.NETdatabase\Class 6\AbstractClasses\bin\Debug\net5.0\AbstractClasses.pdb
+E:\college\Assignments\.NETdatabase\Class 6\AbstractClasses\obj\Debug\net5.0\AbstractClasses.csproj.AssemblyReference.cache
+E:\college\Assignments\.NETdatabase\Class 6\AbstractClasses\obj\Debug\net5.0\AbstractClasses.GeneratedMSBuildEditorConfig.editorconfig
+E:\college\Assignments\.NETdatabase\Class 6\AbstractClasses\obj\Debug\net5.0\AbstractClasses.AssemblyInfoInputs.cache
+E:\college\Assignments\.NETdatabase\Class 6\AbstractClasses\obj\Debug\net5.0\AbstractClasses.AssemblyInfo.cs
+E:\college\Assignments\.NETdatabase\Class 6\AbstractClasses\obj\Debug\net5.0\AbstractClasses.csproj.CoreCompileInputs.cache
+E:\college\Assignments\.NETdatabase\Class 6\AbstractClasses\obj\Debug\net5.0\AbstractClasses.dll
+E:\college\Assignments\.NETdatabase\Class 6\AbstractClasses\obj\Debug\net5.0\ref\AbstractClasses.dll
+E:\college\Assignments\.NETdatabase\Class 6\AbstractClasses\obj\Debug\net5.0\AbstractClasses.pdb
+E:\college\Assignments\.NETdatabase\Class 6\AbstractClasses\obj\Debug\net5.0\AbstractClasses.genruntimeconfig.cache
